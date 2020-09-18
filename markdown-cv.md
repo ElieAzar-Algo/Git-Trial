@@ -1,9 +1,10 @@
 # ***Elie Kamal Al-Azar***
 
+![my image](image.jpg)
 ------------------------------------------------------------------------------------------
 
-##<span style="color:red"> ***Personal Information *** </span> 
- - Nationality:       xxxxx
+## <span style="color:red"> ***Personal Information *** </span> 
+ - Nationality:       Lebanese
  - Marital Status:    Single
  - Date & Birth :     August,08,1992
  - Height:            179cm
@@ -11,7 +12,7 @@
 
  ----------------------------------------------------------------------------------------
 
-##<span style="color:red">  ***Career Experience: *** </span>
+## <span style="color:red">  ***Career Experience: *** </span>
 
 - Foreign Exchange Market
 2018 - Freelance EA (Expert Advisor) multiple programming developer on-going
@@ -33,9 +34,9 @@
 
 ---------------------------------------------------------------------------------------------
 
-##<span style="color:red"> ***Qualifications *** </span>
+## <span style="color:red"> ***Qualifications *** </span>
 
-####***Education***
+#### ***Education***
 - Developer Certification JavaScript Algorithms and Data Structures
 FreeCodeCamp online courses ( freeCodeCamp is a donor-supported tax-exempt 501(c)(3) nonprofit
 organization (United States Federal Tax Identification Number: 82-0779546)
@@ -54,8 +55,8 @@ European accreditation for engineering programs label ( EUR-ACE)
 - Third Secondary in Economics and Sociology
 Lycée Moderne Libanaise, Al Haddath
 
-####***Skills / Capabilities***
-- ####***Languages:***
+#### ***Skills / Capabilities***
+- #### ***Languages:***
    Mother Tongue : Arabic
 
    Other Languages:
@@ -65,7 +66,7 @@ Lycée Moderne Libanaise, Al Haddath
 
 
 
-####***Adequately capable of handeling projects that include the following programs, and skills:***
+#### ***Adequately capable of handeling projects that include the following programs, and skills:***
 
   - Microsoft Office: word, Excel and power point.
   - Adobe Photoshop CS, Visual Basic , Visual Studio( C++ )
@@ -75,7 +76,7 @@ Lycée Moderne Libanaise, Al Haddath
 -----------------------------------------------------------------------------------------------------------------
 
 
-##<span style="color:red"> ***Achievments *** </span>
+## <span style="color:red"> ***Achievments *** </span>
 
 - Create programs that automatically manage accounts in financial markets ( Trading Robots)
 
@@ -88,7 +89,7 @@ and designing modern computer harwadres, and softwares.
 
 --------------------------------------------------------------------------------------------------------------
 
-##<span style="color:red"> ***Hobbies *** </span>
+## <span style="color:red"> ***Hobbies *** </span>
 
 Sport - Writing – Reading –Swimming
 
@@ -97,7 +98,7 @@ Sport - Writing – Reading –Swimming
 
 
 
-###***Thank you for your time and consideration.***
+### ***Thank you for your time and consideration.***
 
 
 
